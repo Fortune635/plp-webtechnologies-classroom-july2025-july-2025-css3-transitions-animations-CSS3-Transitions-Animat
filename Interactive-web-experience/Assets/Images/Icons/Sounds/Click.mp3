@@ -1,0 +1,5 @@
+const clickSound = new Audio('assets/sounds/click.mp3');
+
+document.querySelectorAll('.btn').forEach(btn => {
+    btn.addEventListener('click', () => clickSound.play());
+});
