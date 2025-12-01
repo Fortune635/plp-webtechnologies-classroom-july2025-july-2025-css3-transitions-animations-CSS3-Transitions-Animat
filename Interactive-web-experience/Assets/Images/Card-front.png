@@ -1,6 +1,3 @@
 <div class="card-front">
     <img src="assets/images/card-front.png" alt="Front">
 </div>
-<div class="card-back">
-    <img src="assets/images/card-back.png" alt="Back">
-</div>
