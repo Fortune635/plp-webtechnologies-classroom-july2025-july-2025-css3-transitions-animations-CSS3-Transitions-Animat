@@ -1,0 +1,4 @@
+.box {
+    background-image: url('assets/images/box-pattern.png');
+    background-size: cover;
+}
