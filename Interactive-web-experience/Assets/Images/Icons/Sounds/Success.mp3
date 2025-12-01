@@ -1,0 +1,7 @@
+const successSound = new Audio('assets/sounds/success.mp3');
+
+function showModal(modalId) {
+    const modal = document.getElementById(modalId);
+    modal.classList.add("active");
+    successSound.play();
+}
